@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual env
+.venv/
+venv/
+
+# Training artifacts
+**/checkpoints/
+**/logs/
+**/data/
+**/success_better/__pycache__/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
